@@ -11,3 +11,4 @@ resource "aws_internet_gateway" "main" {
 
   tags = local.igw_final_tags
 }
+
